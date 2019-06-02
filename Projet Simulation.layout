@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="constantes.h" open="1" top="0" tabpos="6">
+		<Cursor position="512" topLine="0" />
+	</File>
+	<File name="editeur.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="15" topLine="0" />
+	</File>
+	<File name="editeur.h" open="1" top="0" tabpos="7">
+		<Cursor position="13" topLine="0" />
+	</File>
+	<File name="fichiers.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="180" topLine="0" />
+	</File>
+	<File name="fichiers.h" open="1" top="0" tabpos="8">
+		<Cursor position="14" topLine="0" />
+	</File>
+	<File name="jeu.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="31505" topLine="923" />
+	</File>
+	<File name="jeu.h" open="1" top="0" tabpos="5">
+		<Cursor position="264" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="313" topLine="3" />
+	</File>
+</CodeBlocks_layout_file>

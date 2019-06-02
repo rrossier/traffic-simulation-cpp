@@ -1,0 +1,4 @@
+-lSDL
+-mingw32
+-lSDLmain
+-lSDL_image
